@@ -71,6 +71,8 @@
 				</executions>
 			</plugin>
 		</plugins>
+
+		<finalName>lab22026v</finalName>
 	</build>
 
 </project>

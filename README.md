@@ -1,4 +1,5 @@
 # lab22026v
+[![CI/CD Pipeline](https://github.com/apabon03/lab22026v/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/apabon03/lab22026v/actions/workflows/build.yml)
 Rest Service with CI/CD | Docker | AWS ECS | JUnit | Jacoco | GitLab | Springboot | Java
 BIENVENIDO A MI APP PARA GENERACION DE DATOS ALEATORIOS
 

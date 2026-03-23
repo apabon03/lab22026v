@@ -1,3 +1,3 @@
 # lab22026v
 Rest Service with CI/CD | Docker | AWS ECS | JUnit | Jacoco | GitLab | Springboot | Java 
-BIENVENIDO A MI APP Arquitectura de Software con Botia JAva 11
+BIENVENIDO A MI APP Arquitectura de Software con Botia JAva 11 mvn 2.7s

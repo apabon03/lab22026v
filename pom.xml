@@ -14,13 +14,14 @@
 
 	<properties>
 		<java.version>17</java.version>
+		<sonar.projectKey>apabon03_lab22026v</sonar.projectKey>
+
+		<sonar.organization>apabon03</sonar.organization>
+
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
-	<sonar.projectKey>apabon03_lab22026v</sonar.projectKey>
 
-	<sonar.organization>apabon03</sonar.organization>
-
-	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
